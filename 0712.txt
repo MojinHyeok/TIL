@@ -1,0 +1,6 @@
+1.[이산수학]그래프의 용어
+2.[이산수학]그래프채색
+3.[데이터구조]Big O에 관하여
+블로그글:https://gkgk246.tistory.com/46
+https://gkgk246.tistory.com/47
+https://gkgk246.tistory.com/48
