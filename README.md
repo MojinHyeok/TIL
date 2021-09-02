@@ -23,3 +23,8 @@ AI[프로젝트]
 [2일차](https://gkgk246.tistory.com/79)(이미지학습과CNN)2021.08.30
 
 [3일차](https://gkgk246.tistory.com/80)(전처리전 이미지 다루기/정확도 높이기와 로스 줄이기)2021.08.31
+
+[4일차](https://gkgk246.tistory.com/81)(RNN에 대한 개념, 활용)2021.09.01
+
+[5일차](https://gkgk246.tistory.com/83)(다양한 CSV데이터 다루기)2021.09.02
+
