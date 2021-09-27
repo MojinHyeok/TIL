@@ -20,7 +20,7 @@ CS지식
 
 [5일차]((https://gkgk246.tistory.com/85)(프로세스 동기화)2021.09.12
 
-[6일차]((https://gkgk246.tistory.com/87)(프로세스관리(2))2021.09.
+[6일차]((https://gkgk246.tistory.com/87)(프로세스관리(2))2021.09.26
 
 AI[프로젝트]
 
@@ -40,4 +40,6 @@ JPA
 [1일차](https://www.notion.so/1d9f3d2b863b4f24ae6e638072fe0b85?p=f42dd7c39dad4df391a5aa1a355f8e63)(JPA영속성 관리)2021.09.24
 
 [2일차](https://www.notion.so/1d9f3d2b863b4f24ae6e638072fe0b85?p=f42dd7c39dad4df391a5aa1a355f8e63)(JPA영속성 관리)2021.09.25
+
+[3일차](https://www.notion.so/1d9f3d2b863b4f24ae6e638072fe0b85?p=f42dd7c39dad4df391a5aa1a355f8e63)(JPA영속성 관리)2021.09.27
 
