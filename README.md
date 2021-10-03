@@ -45,3 +45,5 @@ JPA
 
 [4일차](https://www.notion.so/1d9f3d2b863b4f24ae6e638072fe0b85?p=f42dd7c39dad4df391a5aa1a355f8e63)(JPA영속성 관리)2021.09.29
 
+[5일차](https://www.notion.so/1d9f3d2b863b4f24ae6e638072fe0b85?p=f42dd7c39dad4df391a5aa1a355f8e63)(JPA 플러시/준영속상태)2021.10.03
+
