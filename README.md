@@ -14,11 +14,11 @@ CS지식
 
 [2일차](https://gkgk246.tistory.com/74)(시스템 구조 및 프로그램의 실행)2021.08.21
 
-[3일차]((https://gkgk246.tistory.com/75)(프로세스)2021.08.22
+[3일차](https://gkgk246.tistory.com/75)(프로세스)2021.08.22
 
-[4일차]((https://gkgk246.tistory.com/84)(프로세스관리)2021.09.04
+[4일차](https://gkgk246.tistory.com/84)(프로세스관리)2021.09.04
 
-[5일차]((https://gkgk246.tistory.com/85)(프로세스 동기화)2021.09.12
+[5일차](https://gkgk246.tistory.com/85)(프로세스 동기화)2021.09.12
 
 [6일차]((https://gkgk246.tistory.com/87)(프로세스관리(2))2021.09.26
 
@@ -37,13 +37,13 @@ AI[프로젝트]
 
 JPA
 
-[1일차](https://www.notion.so/1d9f3d2b863b4f24ae6e638072fe0b85?p=f42dd7c39dad4df391a5aa1a355f8e63)(JPA영속성 관리)2021.09.24
+[1일차](https://gkgk246.tistory.com/108)(JPA영속성 관리)2021.09.24
 
-[2일차](https://www.notion.so/1d9f3d2b863b4f24ae6e638072fe0b85?p=f42dd7c39dad4df391a5aa1a355f8e63)(JPA영속성 관리)2021.09.25
+[2일차](https://gkgk246.tistory.com/108)(JPA영속성 관리)2021.09.25
 
-[3일차](https://www.notion.so/1d9f3d2b863b4f24ae6e638072fe0b85?p=f42dd7c39dad4df391a5aa1a355f8e63)(JPA영속성 관리)2021.09.27
+[3일차](https://gkgk246.tistory.com/108)(JPA영속성 관리)2021.09.27
 
-[4일차](https://www.notion.so/1d9f3d2b863b4f24ae6e638072fe0b85?p=f42dd7c39dad4df391a5aa1a355f8e63)(JPA영속성 관리)2021.09.29
+[4일차](https://gkgk246.tistory.com/108)(JPA영속성 관리)2021.09.29
 
-[5일차](https://www.notion.so/1d9f3d2b863b4f24ae6e638072fe0b85?p=f42dd7c39dad4df391a5aa1a355f8e63)(JPA 플러시/준영속상태)2021.10.03
+[5일차](https://gkgk246.tistory.com/108)(JPA 플러시/준영속상태)2021.10.03
 
