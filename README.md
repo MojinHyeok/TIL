@@ -49,5 +49,7 @@ JPA
 
 Sping
 
-[1일차](https://github.com/MojinHyeok/TIL/blob/main/Spring/SpringFramework_DI.md)(Spring_DI와 특징)2021.11.30
+[1일차](https://github.com/MojinHyeok/TIL/blob/main/Spring/SpringFramework_DI.md)(Spring_DI와 특징)2021.11.30\
+
+[2일차](https://github.com/MojinHyeok/TIL/blob/main/Spring/AOP.md)(SPRING_AOP)2021.12.01
 
