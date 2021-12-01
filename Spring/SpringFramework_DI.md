@@ -94,6 +94,3 @@ Annotation
 
 Autowired를 사용하면 타입이 MemberDao인 것을 저기에 주입 해라!!!
 
-Annotation으로 빈을 설정할 경우 component-scan을 설정해야한다.
-
-![img](https://blog.kakaocdn.net/dn/w5bUG/btrmCNE8C3j/sjWnM5nde0Mwva11HZYay1/img.png)
