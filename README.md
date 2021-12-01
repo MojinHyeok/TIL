@@ -47,6 +47,8 @@ JPA
 
 [5일차](https://gkgk246.tistory.com/108)(JPA 플러시/준영속상태)2021.10.03
 
+[6일차](https://github.com/MojinHyeok/TIL/blob/main/JPA/JPA%EC%86%8C%EA%B0%9C.md)(JPA소개) 2021.12.01
+
 Sping
 
 [1일차](https://github.com/MojinHyeok/TIL/blob/main/Spring/SpringFramework_DI.md)(Spring_DI와 특징)2021.11.30\
