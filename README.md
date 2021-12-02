@@ -20,7 +20,7 @@ CS지식
 
 [5일차](https://gkgk246.tistory.com/85)(프로세스 동기화)2021.09.12
 
-[6일차]((https://gkgk246.tistory.com/87)(프로세스관리(2))2021.09.26
+[6일차](https://gkgk246.tistory.com/87)(프로세스관리(2))2021.09.26
 
 AI[프로젝트]
 
