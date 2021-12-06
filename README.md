@@ -20,7 +20,7 @@ CS지식
 
 [5일차](https://gkgk246.tistory.com/85)(프로세스 동기화)2021.09.12
 
-[6일차]((https://gkgk246.tistory.com/87)(프로세스관리(2))2021.09.26
+[6일차](https://gkgk246.tistory.com/87)(프로세스관리(2))2021.09.26
 
 AI[프로젝트]
 
@@ -48,6 +48,8 @@ JPA
 [5일차](https://gkgk246.tistory.com/108)(JPA 플러시/준영속상태)2021.10.03
 
 [6일차](https://github.com/MojinHyeok/TIL/blob/main/JPA/JPA%EC%86%8C%EA%B0%9C.md)(JPA소개) 2021.12.01
+
+[7일차](https://github.com/MojinHyeok/TIL/blob/main/JPA/JPA_%EC%84%B9%EC%85%984_%EC%97%94%ED%8B%B0%ED%8B%B0%EB%A7%A4%ED%95%91.md)(JPA엔티티 매핑) 2021.12.02
 
 Sping
 
