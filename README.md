@@ -51,6 +51,8 @@ JPA
 
 [7일차](https://github.com/MojinHyeok/TIL/blob/main/JPA/JPA_%EC%84%B9%EC%85%984_%EC%97%94%ED%8B%B0%ED%8B%B0%EB%A7%A4%ED%95%91.md)(JPA엔티티 매핑) 2021.12.02
 
+[8일 차](https://github.com/MojinHyeok/TIL/blob/main/JPA/JPA_%EC%84%B9%EC%85%985_%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%EB%A7%A4%ED%95%91%20%EA%B8%B0%EC%B4%88.md)(JPA 연관관계 매핑 기초) 2021.12.06
+
 Sping
 
 [1일차](https://github.com/MojinHyeok/TIL/blob/main/Spring/SpringFramework_DI.md)(Spring_DI와 특징)2021.11.30\
