@@ -55,6 +55,7 @@ JPA
 
 [9일 차](https://github.com/MojinHyeok/TIL/blob/main/JPA/JPA_%EC%84%B9%EC%85%986_%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91.md)(JPA 다양한 연관관계 매핑) 2021.12.10
 
+[10일 차](https://github.com/MojinHyeok/TIL/blob/main/JPA/JPA_%EC%84%B9%EC%85%987_%EA%B3%A0%EA%B8%89%EB%A7%A4%ED%95%91.md)(JPA 고급매핑) 2021.12.13
 
 Sping
 
