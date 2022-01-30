@@ -22,6 +22,8 @@ CS지식
 
 [6일차](https://gkgk246.tistory.com/87)(프로세스관리(2))2021.09.26
 
+[7일차](https://github.com/MojinHyeok/CS-Study/blob/master/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/10%2C-11%EC%9E%A5-%ED%8C%8C%EC%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%BC-%EA%B5%AC%ED%98%84.md)(파일시스템)2021.12.20
+
 AI[프로젝트]
 
 [1일차](https://gkgk246.tistory.com/78)(딥러닝과머신러닝에 대한 전반적인 설명)2021.08.29
@@ -55,6 +57,7 @@ JPA
 
 [9일 차](https://github.com/MojinHyeok/TIL/blob/main/JPA/JPA_%EC%84%B9%EC%85%986_%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91.md)(JPA 다양한 연관관계 매핑) 2021.12.10
 
+[10일 차](https://github.com/MojinHyeok/TIL/blob/main/JPA/JPA_%EC%84%B9%EC%85%987_%EA%B3%A0%EA%B8%89%EB%A7%A4%ED%95%91.md)(JPA 고급매핑) 2021.12.13
 
 Sping
 
