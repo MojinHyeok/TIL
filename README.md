@@ -65,3 +65,6 @@ Sping
 
 [2일차](https://github.com/MojinHyeok/TIL/blob/main/Spring/AOP.md)(SPRING_AOP)2021.12.01
 
+네트워크
+
+[1일차](https://github.com/MojinHyeok/TIL/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/6%EC%9B%9429%EC%9D%BC.md)(네트워크에 대한 기초) 2022.06.29
