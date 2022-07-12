@@ -83,3 +83,6 @@ Sping
 
 [7일차]
 (https://github.com/MojinHyeok/TIL/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_7%EC%9B%9411%EC%9D%BC(Router%2CProxy).md)(Proxy,Router)2022.07.11
+
+[8일차]
+(https://github.com/MojinHyeok/TIL/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_7%EC%9B%9412%EC%9D%BC(Proxy%EC%9D%98%20%ED%99%9C%EC%9A%A9).md)(Proxy의 활용)2022.07.12
