@@ -89,3 +89,5 @@ Sping
 [9일차](https://github.com/MojinHyeok/TIL/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_7%EC%9B%94_12%EC%9D%BC(TCP%20%EC%86%A1%EC%88%98%EC%8B%A0%20%EC%9B%90%EB%A6%AC).md)(TCP송수신원리) 2022.07.13
 
 [10일차](https://github.com/MojinHyeok/TIL/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_7%EC%9B%9414%EC%9D%BC(TCP%2CCast).md)(TCP,cast)2022.07.14
+
+[11일차](https://github.com/MojinHyeok/TIL/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_7%EC%9B%9415%EC%9D%BC(IP%2CDNS).md)(IP,DNS)
