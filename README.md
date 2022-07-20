@@ -93,3 +93,5 @@ Sping
 [11일차](https://github.com/MojinHyeok/TIL/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_7%EC%9B%9415%EC%9D%BC(IP%2CDNS).md)(IP,DNS)
 
 [12일차](https://github.com/MojinHyeok/TIL/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_7%EC%9B%9417%EC%9D%BC(TTL%2CARP%2CMAC%EC%A3%BC%EC%86%8C).md)(TTL,ARP,MAC주소)
+
+[13일차](https://github.com/MojinHyeok/TIL/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_7%EC%9B%9418%EC%9D%BC(MTU%2CStream).md)(MTU,Stream)
