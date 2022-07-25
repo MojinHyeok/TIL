@@ -97,3 +97,26 @@ Sping
 [13일차](https://github.com/MojinHyeok/TIL/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_7%EC%9B%9418%EC%9D%BC(MTU%2CStream).md)(MTU,Stream)
 
 [14일차](https://github.com/MojinHyeok/TIL/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_7%EC%9B%94_20%EC%9D%BC(%EC%84%9C%EB%B8%8C%EB%84%B7%2CTCP%EC%9E%A5%EC%95%A0).md)(TCP장애,서브넷팅)
+
+
+클린코더
+
+(https://github.com/MojinHyeok/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%8D%94/%EA%B0%95%EC%9D%98%EA%B0%9C%EC%9A%94.OOP.md)(OOP)
+
+(https://github.com/MojinHyeok/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%8D%94/Function_Part1.md)(Function1)
+
+(https://github.com/MojinHyeok/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%8D%94/Function_Part2..md)(Function2)
+
+(https://github.com/MojinHyeok/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%8D%94/%5B%ED%81%B4%EB%A6%B0%EC%BD%94%EB%8D%94%5DFunction%20Structure.md)(Function Structure1)
+
+(https://github.com/MojinHyeok/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%8D%94/%5B%ED%81%B4%EB%A6%B0%EC%BD%94%EB%8D%94%EC%8A%A4%5DFunction%20Structure_Part2.md)(Function Structure2)
+
+(https://github.com/MojinHyeok/TIL/blob/main/%ED%81%B4%EB%A6%B0%EC%BD%94%EB%8D%94/%5B%ED%81%B4%EB%A6%B0%EC%BD%94%EB%8D%94%EC%8A%A4%5DForm.md)(Form)
+
+
+
+
+
+
+
+
